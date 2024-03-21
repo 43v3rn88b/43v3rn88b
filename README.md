@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, I'm Mic</h1>
 <h3 align="center">A self-taught developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=43v3rn88b&label=Profile%20views&color=0e75b6&style=flat" alt="43v3rn88b" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=43v3rn88b&label=Profile%20views&color=pink&style=flat" alt="43v3rn88b" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=43v3rn88b" alt="43v3rn88b" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **m.angelo@tutamail.com**
 
-<h3 align="left">Connect with me:</h3>
+<--<h3 align="left">Connect with me:</h3>--/>
 <p align="left">
 </p>
 
